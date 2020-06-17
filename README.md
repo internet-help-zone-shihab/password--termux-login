@@ -13,31 +13,11 @@ if you have git and python installed you can skip line 2
 ```shell
 $ cd ~
 $ pkg install git python
-$ git clone https://github.com/Ublimjo/Termux-login.git
-$ cd Termux-login
+$ git clone https://github.com/internet-help-zone-shihab/password--termux-login.git
+$ cd password--termux-login
 $ bash setup.sh
 ```
 
-## License
+Subescribe Admin Youtube 
 
-MIT License
-
-Copyright (c) 2018 Ublim
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+https://www.youtube.com/channel/UCM4wF_X6IV4SNRumm4N_3IA
